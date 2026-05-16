@@ -8,10 +8,8 @@ Think Trello/Asana — but built from scratch.
 
 ##  Live Demo
 
-- **Frontend:** `https://taskflow-frontend.up.railway.app`
-- **Backend API:** `https://taskflow-backend.up.railway.app`
-
-> Replace with your actual Railway URLs after deployment.
+- **Frontend:** `https://taskflow-frontend-production-f959.up.railway.app`
+- **Backend API:** `taskflow-production-8cb6.up.railway.app`
 
 ---
 
@@ -121,7 +119,7 @@ team-task-manager/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/team-task-manager.git
+git clone https://github.com/deepakkarhana/TaskFlow.git
 cd team-task-manager
 ```
 
@@ -237,3 +235,5 @@ Users ──< ProjectMembers >── Projects
 ##  Author
 
 Built as part of a full-stack development assignment.
+
+#demo video url: 'https://drive.google.com/file/d/1yPuw2ZHAJ2I3AZ27OTC1bjFItxbRhLYj/view?usp=sharing'
